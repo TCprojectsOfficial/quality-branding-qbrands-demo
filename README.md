@@ -1,38 +1,46 @@
-# QBRAND Website – Demo Platform
+# QBRAND Website Demo
 
-A premium multi-page branding and printing company website developed by TCprojects for QBRAND.
+A premium branding and printing company website developed by TCprojects for QBRAND.
 
 ---
 
 ## 🌐 Live Demo
-[View Website Demo](https://id-preview--3ef4374a-77a7-4203-9ca9-d5bdeae1b6f2.lovable.app/?__lovable_token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiTTZyNUM2WVV1WWE4aWh0MGpOUDNQMGZubExHMiIsInByb2plY3RfaWQiOiIzZWY0Mzc0YS03N2E3LTQyMDMtOWNhOS1kNWJkZWFlMWI2ZjIiLCJhY2Nlc3NfdHlwZSI6InByb2plY3QiLCJpc3MiOiJsb3ZhYmxlLWFwaSIsInN1YiI6IjNlZjQzNzRhLTc3YTctNDIwMy05Y2E5LWQ1YmRlYWUxYjZmMiIsImF1ZCI6WyJsb3ZhYmxlLWFwcCJdLCJleHAiOjE3Nzk0NDMwMzQsIm5iZiI6MTc3ODgzODIzNCwiaWF0IjoxNzc4ODM4MjM0fQ.AxE2f3L0VI_oFwHTwW94M4h3ZbZHTOZBS-_OYxwbqkWl8AqnOz-ilJWzbPnYmefbVfsy6DtFLyecsvIkNj48wHZRgKJ_zvqai9cMngLZoP_gAtD-XsliaatvtyUdzHywfus0RkR1AWsVK28drDvMJPHotjvw2F4f4kXQwUDRNc6qZq68LE0_NhfwpMJxVnth2wqxfPVWGPz_yhp5ZtFz17tLLaIZY1eShzp9T4HSkfCr6aggw7Om8Ki7eIPenUOO_FbrlQri69PmKRlrs6zbHDPkvjb9yZ151e2swZUTXXZiDUeOhULKalRtwlW6nE-rMeoQ77aOafsCZ7IsiL8ffaDxUgo4YterRzb3sS82qcYXL2pN8_iIAwviGSnTivfEpXv8kHvIMCLYz1uFldji44tVXMrV68m2jchH-9orh_rsDrqCA1psKSn81XYOpxjAB3ANm6G0Mn74qtDqu3CK1wAlPCziK1WvC5mtoXhFop7MY-jdp6TcoZwiunt7-bwz5tASwwvY6vbNBIfhnOu4gntXQ9KQ4_ob1z8JQcdX-lZa86bCHZQ6lHjoaVoFNjL8YDugxltsAU9zmgUXovmttU3BNq6cfSoym4paXepAbFVkRHapEdm3gH_d6feEmc7oed0BHDiGTrhHFVcyGFg6MygNmommlGrYglnbtxeVtFg)
+[View Website Demo](PASTE_DEMO_LINK_HERE)
 
 ---
 
-# 🚀 Latest Website Updates
+## 📌 Website Overview
 
-This update focuses on improving branding consistency, mobile navigation functionality, and customer quote request workflows for the QBRAND website.
+QBRAND is a modern branding and printing company offering professional apparel customization, corporate branding, and promotional product services.
 
----
-
-# 🎨 Branding Improvements
-
-- Removed all remaining “QBRANDS” references
-- Updated all product mockups and branding visuals to display:
-  - QBRAND
-- Applied branding consistency across:
-  - Product cards
-  - Hero banners
-  - Apparel mockups
-  - Mobile & desktop layouts
-  - Catalogue visuals
+The platform is designed for **high-conversion customer engagement**, bulk quoting, and WhatsApp-based communication workflows.
 
 ---
 
-# 📱 Mobile Navigation Fixes
+## 🧾 Core Services
 
-- Fixed blank mobile sidebar navigation issue
-- Added fully functional navigation menu links:
+- DTF Printing
+- Embroidery
+- PPE & Garments
+- Promotional Gifts
+- Branding Products
+
+---
+
+## 🛍 Product Categories
+
+- T-Shirts
+- Jackets
+- Caps
+- Hoodies
+- PPE Wear
+
+---
+
+## 📱 Mobile Navigation System
+
+- Fixed mobile sidebar navigation issue resolved
+- Fully functional navigation menu includes:
   - Home
   - About
   - Services
@@ -40,110 +48,120 @@ This update focuses on improving branding consistency, mobile navigation functio
   - Contact
   - Request Quote
   - WhatsApp Enquiry
-- Improved responsive mobile navigation styling
-- Added smooth sidebar animations and close functionality
+
+- Smooth mobile sidebar animations
+- Proper open/close navigation behavior
+- Fully responsive layout improvements
 
 ---
 
-# 🏠 Homepage Navigation Update
+## 🏠 Homepage Navigation Enhancement
 
-- Website logo is now fully clickable
-- Clicking the QBRAND logo redirects users back to the homepage from any page
+- QBRAND logo is fully clickable
+- Clicking logo redirects users to homepage from all pages
+- Improved navigation consistency across website
 
 ---
 
-# 📦 Bulk Quote Checkout System
+## 📦 Bulk Quote Checkout System
 
-Implemented a professional bulk quotation request workflow for commercial branding enquiries.
+A professional quotation system designed for business clients.
 
-### Features Included:
+### Features:
 - Service selection
 - Product selection
 - Quantity input
 - Size selection
-- Additional branding notes
+- Branding notes section
 - Customer contact information
-- Optional logo upload functionality
+- Optional file upload (logo/artwork)
 
 ---
 
-# 📲 Automated WhatsApp Quote Integration
+## 📲 Automated WhatsApp Quote System
 
-Submitted quote requests automatically generate a structured WhatsApp message including:
+All submitted quote requests generate a formatted WhatsApp message automatically including:
 
-- Selected service
-- Product type
+- Selected service type
+- Product selection
 - Quantity
 - Sizes
-- Additional requirements
+- Customer requirements
 
-This improves lead conversion and customer response speed.
-
----
-
-# 🎯 UI/UX Improvements
-
-- Improved mobile responsiveness
-- Enhanced CTA button styling
-- Updated premium purple & white branding theme
-- Improved overall commercial branding presentation
-- Smoother user interaction flow
-- Better spacing and layout consistency
+This enables instant business communication and faster lead conversion.
 
 ---
 
-# 🎨 Design Direction
+## 🎨 UI/UX Improvements
 
-The website continues to follow a premium modern commercial branding style inspired by high-end apparel and product showcase experiences while maintaining a fully original QBRAND identity.
-
----
-
-# 🧾 Core Services Displayed
-
-- DTF Printing  
-- Embroidery  
-- PPE & Garments  
-- Promotional Gifts  
-- Branding Products  
+- Enhanced mobile responsiveness
+- Improved CTA button visibility
+- Updated premium purple & white theme
+- Smoother transitions and interactions
+- Stronger visual hierarchy
+- Improved commercial product presentation
 
 ---
 
-# 🛍 Product Categories
+## 🎨 Branding System
 
-- T-Shirts  
-- Jackets  
-- Caps  
-- Hoodies  
-- PPE Wear  
-
----
-
-# ⚙ Technologies Used
-
-- Built with Lovable  
-- React Framework  
-- Tailwind CSS  
-- Modern UI Components  
-- Responsive Web Design  
-- WhatsApp API Integration (Quote Flow Logic)
+- Consistent use of QBRAND identity
+- Updated all mockups and visuals to QBRAND
+- Applied branding across:
+  - Product cards
+  - Hero sections
+  - Apparel mockups
+  - Catalog layouts
+  - Mobile + desktop views
 
 ---
 
-# 🔄 Development Workflow
+## 🧠 Design Direction
+
+The website follows a premium commercial branding approach inspired by high-end product showcase experiences while maintaining a fully original QBRAND identity.
+
+Focus areas:
+- Clean layout structure
+- Strong product visibility
+- Conversion-focused UI
+- Mobile-first responsiveness
+- Modern business aesthetics
+
+---
+
+## 🛠 Technologies Used
+
+- Built with Lovable
+- React Framework
+- Tailwind CSS
+- Responsive Web Design
+- Modern UI Components
+- WhatsApp API Integration (workflow logic)
+
+---
+
+## ⚙ Development Workflow
 
 This project was designed and structured by TCprojects using AI-assisted modern web development tools and custom branding implementation.
 
 ---
 
-# 👨‍💻 Developed By
+## 📊 Status
+
+Platform actively optimized for:
+- Client presentation
+- Business lead generation
+- Future production deployment
+- Conversion performance improvement
+
+---
+
+## 👨‍💻 Developed By
 
 TCprojects
 
 ---
 
-# 🎯 Project Status
+## 🎯 Purpose
 
-- Website demo actively being refined
-- Optimized for client presentation
-- Preparing for production deployment
-- Focused on conversion-driven design improvements
+To create a high-conversion digital branding platform for QBRAND, enabling customers to request quotes, browse products, and engage directly via WhatsApp in a streamlined commercial workflow
