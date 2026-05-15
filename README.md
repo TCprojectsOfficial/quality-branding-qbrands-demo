@@ -1,153 +1,149 @@
-# Quality Branding (QBrands) Demo Website
+# QBRAND Website – Demo Platform
 
-A premium multi-page branding and printing company website developed by TCprojects for Quality Branding (QBrands).
+A premium multi-page branding and printing company website developed by TCprojects for QBRAND.
 
 ---
 
 ## 🌐 Live Demo
-[View Website Demo](PASTE_DEMO_LINK_HERE)
+[View Website Demo](https://id-preview--3ef4374a-77a7-4203-9ca9-d5bdeae1b6f2.lovable.app/?__lovable_token=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiTTZyNUM2WVV1WWE4aWh0MGpOUDNQMGZubExHMiIsInByb2plY3RfaWQiOiIzZWY0Mzc0YS03N2E3LTQyMDMtOWNhOS1kNWJkZWFlMWI2ZjIiLCJhY2Nlc3NfdHlwZSI6InByb2plY3QiLCJpc3MiOiJsb3ZhYmxlLWFwaSIsInN1YiI6IjNlZjQzNzRhLTc3YTctNDIwMy05Y2E5LWQ1YmRlYWUxYjZmMiIsImF1ZCI6WyJsb3ZhYmxlLWFwcCJdLCJleHAiOjE3Nzk0NDMwMzQsIm5iZiI6MTc3ODgzODIzNCwiaWF0IjoxNzc4ODM4MjM0fQ.AxE2f3L0VI_oFwHTwW94M4h3ZbZHTOZBS-_OYxwbqkWl8AqnOz-ilJWzbPnYmefbVfsy6DtFLyecsvIkNj48wHZRgKJ_zvqai9cMngLZoP_gAtD-XsliaatvtyUdzHywfus0RkR1AWsVK28drDvMJPHotjvw2F4f4kXQwUDRNc6qZq68LE0_NhfwpMJxVnth2wqxfPVWGPz_yhp5ZtFz17tLLaIZY1eShzp9T4HSkfCr6aggw7Om8Ki7eIPenUOO_FbrlQri69PmKRlrs6zbHDPkvjb9yZ151e2swZUTXXZiDUeOhULKalRtwlW6nE-rMeoQ77aOafsCZ7IsiL8ffaDxUgo4YterRzb3sS82qcYXL2pN8_iIAwviGSnTivfEpXv8kHvIMCLYz1uFldji44tVXMrV68m2jchH-9orh_rsDrqCA1psKSn81XYOpxjAB3ANm6G0Mn74qtDqu3CK1wAlPCziK1WvC5mtoXhFop7MY-jdp6TcoZwiunt7-bwz5tASwwvY6vbNBIfhnOu4gntXQ9KQ4_ob1z8JQcdX-lZa86bCHZQ6lHjoaVoFNjL8YDugxltsAU9zmgUXovmttU3BNq6cfSoym4paXepAbFVkRHapEdm3gH_d6feEmc7oed0BHDiGTrhHFVcyGFg6MygNmommlGrYglnbtxeVtFg)
 
 ---
 
-## 📌 Project Overview
+# 🚀 Latest Website Updates
 
-Quality Branding (QBrands) is a premium branding and printing company specializing in high-quality apparel, corporate branding, embroidery, and promotional products.
-
-This website was designed as a **modern luxury branding platform**, focusing on clean UI, strong visual hierarchy, and premium product presentation.
+This update focuses on improving branding consistency, mobile navigation functionality, and customer quote request workflows for the QBRAND website.
 
 ---
 
-## 🧾 Business Services
+# 🎨 Branding Improvements
 
-- DTF Printing
-- Embroidery
-- PPE & Workwear Garments
-- Branding Products
-- Promotional Gifts
-- Corporate Clothing Branding
+- Removed all remaining “QBRANDS” references
+- Updated all product mockups and branding visuals to display:
+  - QBRAND
+- Applied branding consistency across:
+  - Product cards
+  - Hero banners
+  - Apparel mockups
+  - Mobile & desktop layouts
+  - Catalogue visuals
 
 ---
 
-## 🧭 Website Structure
+# 📱 Mobile Navigation Fixes
 
-### 🏠 Home Page
-- Premium hero section with bold branding
-- Strong call-to-action buttons:
-  - View Products
+- Fixed blank mobile sidebar navigation issue
+- Added fully functional navigation menu links:
+  - Home
+  - About
+  - Services
+  - Products
+  - Contact
   - Request Quote
   - WhatsApp Enquiry
-- Featured product showcase
-- Service highlights section
-- Trust indicators / client section
-- Professional footer design
+- Improved responsive mobile navigation styling
+- Added smooth sidebar animations and close functionality
 
 ---
 
-### 🛍 Products Page
+# 🏠 Homepage Navigation Update
 
-Product categories:
-- T-Shirts
-- Jackets
-- Caps
-- Hoodies
-- PPE Wear
-- Promotional Gifts
-
-All products branded as:
-- QBrands apparel
-- QBrands embroidery items
-- QBrands corporate wear
-- QBrands promotional products
-
-Includes:
-- Product grid layout
-- Category filtering system
-- Hover animations
-- Premium mockup presentation
+- Website logo is now fully clickable
+- Clicking the QBRAND logo redirects users back to the homepage from any page
 
 ---
 
-### 🧩 Services Page
+# 📦 Bulk Quote Checkout System
 
-Modern card-based layout including:
+Implemented a professional bulk quotation request workflow for commercial branding enquiries.
 
-- DTF Printing
-- Embroidery Services
-- Custom Branding Solutions
-- Bulk Orders
-- Corporate Clothing Supply
-- Promotional Product Branding
-
----
-
-### ℹ️ About Page
-Professional company branding story:
-- Quality Branding (QBrands) identity
-- Mission and vision
-- Company professionalism and growth focus
-- Visual brand storytelling
+### Features Included:
+- Service selection
+- Product selection
+- Quantity input
+- Size selection
+- Additional branding notes
+- Customer contact information
+- Optional logo upload functionality
 
 ---
 
-### 📞 Contact Page
-Includes:
-- WhatsApp integration
-- Contact form
-- Business phone number: 076 833 0139
-- Quick enquiry CTA buttons
-- Direct customer communication features
+# 📲 Automated WhatsApp Quote Integration
+
+Submitted quote requests automatically generate a structured WhatsApp message including:
+
+- Selected service
+- Product type
+- Quantity
+- Sizes
+- Additional requirements
+
+This improves lead conversion and customer response speed.
 
 ---
 
-## 🎨 Design Direction
+# 🎯 UI/UX Improvements
 
-- Premium modern UI/UX
-- Color palette:
-  - Midnight Purple: #27187D
-  - Frosted White: #F7F7FF
-- Luxury branding aesthetic
-- Clean typography with strong hierarchy
-- Smooth scrolling animations
-- Hover effects & transitions
-- Mobile-first responsive design
-- Sticky navigation bar
+- Improved mobile responsiveness
+- Enhanced CTA button styling
+- Updated premium purple & white branding theme
+- Improved overall commercial branding presentation
+- Smoother user interaction flow
+- Better spacing and layout consistency
 
 ---
 
-## 🧠 BRANDING CLARIFICATION
+# 🎨 Design Direction
 
-This project is fully original and contains no third-party branding or references.
-
-All visuals, layouts, and product mockups are:
-- Custom branded
-- Original design concepts
-- Created for Quality Branding (QBrands)
+The website continues to follow a premium modern commercial branding style inspired by high-end apparel and product showcase experiences while maintaining a fully original QBRAND identity.
 
 ---
 
-## 🛠 Technologies Used
+# 🧾 Core Services Displayed
 
-- Built with Lovable
-- React Framework
-- Tailwind CSS
-- Modern UI Components
-- Responsive Web Design
-- SEO Optimized Structure
+- DTF Printing  
+- Embroidery  
+- PPE & Garments  
+- Promotional Gifts  
+- Branding Products  
 
 ---
 
-## ⚙ Development Workflow
+# 🛍 Product Categories
+
+- T-Shirts  
+- Jackets  
+- Caps  
+- Hoodies  
+- PPE Wear  
+
+---
+
+# ⚙ Technologies Used
+
+- Built with Lovable  
+- React Framework  
+- Tailwind CSS  
+- Modern UI Components  
+- Responsive Web Design  
+- WhatsApp API Integration (Quote Flow Logic)
+
+---
+
+# 🔄 Development Workflow
 
 This project was designed and structured by TCprojects using AI-assisted modern web development tools and custom branding implementation.
 
 ---
 
-## 👨‍💻 Developed By
+# 👨‍💻 Developed By
 
 TCprojects
 
 ---
 
-## 🎯 Purpose
+# 🎯 Project Status
 
-To create a premium digital identity for Quality Branding (QBrands), showcasing professional printing, embroidery, and apparel branding services through a modern, high-conversion website experience.
+- Website demo actively being refined
+- Optimized for client presentation
+- Preparing for production deployment
+- Focused on conversion-driven design improvements
